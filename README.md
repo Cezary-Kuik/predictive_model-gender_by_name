@@ -1,6 +1,4 @@
-# gender_prediction_by_name
-
-## Predykcja płci po imieniu
+# Predykcja płci po imieniu
 
 Celem jest zrobienie prostej, ale już wartościowej predykcji.
 
