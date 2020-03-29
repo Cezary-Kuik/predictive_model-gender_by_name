@@ -13,3 +13,4 @@ Zastosowane biblioteki:
 Zastosowane modele:
 
 * DummyClassifier
+* Logistic Regression
